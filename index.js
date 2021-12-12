@@ -1,5 +1,5 @@
-import deepIs from './deep.js'
-import emptyIs from './empty.js'
+import deepIs from './src/deepIs.js'
+import emptyIs from './src/emptyIs.js'
 
 /**
  * A fast and simple helper tool.
