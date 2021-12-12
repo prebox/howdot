@@ -1,0 +1,16 @@
+{
+  "name": "howdot",
+  "version": "0.0.1",
+  "description": "Fast and easy helper tools.",
+  "main": "src/how.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/how.js",
+    "test": "test"
+  },
+  "keywords": [
+    "howdot"
+  ],
+  "author": "prebox",
+  "license": "MIT"
+}
