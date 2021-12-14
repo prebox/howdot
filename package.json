@@ -2,8 +2,8 @@
   "name": "howdot",
   "version": "0.0.4",
   "description": "Fast and easy helper tools.",
-  "main": "./index.js",
-  "type": "module",
+  "main": "./dist/index.js",
+  "files": ["dist/**/*"],
   "scripts": {
     "start": "node src/index.js"
   },
